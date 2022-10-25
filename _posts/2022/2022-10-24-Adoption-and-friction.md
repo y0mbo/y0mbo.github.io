@@ -1,6 +1,6 @@
 ---
 title: Adoption and Friction
-layout: post
+layout: post 
 ---
 
 When we lower friction, we get higher adoption.
