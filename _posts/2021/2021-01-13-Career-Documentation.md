@@ -17,7 +17,7 @@ Next, create a Career Management Document (CMD) from your brag document. The CMD
 
 The Career Management Document is the source for resumes tailored to individual applications when you enter the job market again.
 
-Finally, the last document to create is a FAB. These are Facts, Accomplishments, and Benefits. Some consulting companies use this format to connect their consultants and clients. Resumes often don't quite hit the mark for consultancies. 
+Finally, the last document to create is a FAB. These are Facts, Accomplishments, and Benefits. Some consulting companies use this format to connect their consultants and clients. Resumes often don't quite hit the mark for consultancies.
 
 Facts describe what experience you have. (e.g., eight years of experience as a software developer.)
 
