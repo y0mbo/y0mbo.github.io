@@ -6,6 +6,7 @@ title: Late Projects
 Once a project has already blown its deadline, the activities added to wrangle the project back under control actually make the project even later.
 
 Steve McConnell outlines some of these events in his book "Software Estimation: Demystifying the Black Art" - A few highlights:
+
 More status meetings - because of the need to keep track of where the late project is, there are usually more status meetings. Instead of once a week, the team has daily status check-ins that take away from heads-down work.
 
 More reestimation - looking for new target deadlines means effort spent in reestimating the remaining work. Again, this comes at the expense of doing the actual work.
