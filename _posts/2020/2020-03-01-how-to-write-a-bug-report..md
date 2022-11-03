@@ -50,7 +50,7 @@ An error was displayed: "The specified cast was not valid."
 
 With this example, we can see there was an error, and how to reproduce the steps to get there. In this case, it was a valid issue (that shouldn't have gotten to production).
 
-Here is another example:
+## Here is another example:
 
 ### What did you do?
 
