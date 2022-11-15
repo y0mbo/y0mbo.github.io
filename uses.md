@@ -46,11 +46,12 @@ This is a living document outlining the things I use. Check out what other peopl
 * [Uplift Motion-X Balance Board](https://www.amazon.com/dp/B07WNXW8R6/ref=cm_sw_r_tw_dp_J37Q4A3TV43ZWJ4HK9R5)
 * USB Dock
 * Brother laser printer
-* Brother scanner
-* [ARC Notebook](https://www.staples.com/arc-systems-Notebooks-Pads/cat_CL165557/dkv38)&#8212;ARC and [Circa](https://www.levenger.com/circa-notebooks-339.aspx) are compatible systems.
-* [Circa Paper Punch](https://www.levenger.com/circa-326/circa-punches-23253/circa-universal-desk-punch-12724.aspx)
-* [Pilot G2 Pens](https://www.amazon.com/dp/B00006JNJ8?ref_=cm_sw_r_cp_ud_dp_SV5JA4CSS8YGDPNVNMCM)
-* Rocketbook and Pilot Frixion pens
+* Brother scanner - I hardly use this anymore, as my phone scans documents very well these days.
+* ~~[ARC Notebook](https://www.staples.com/arc-systems-Notebooks-Pads/cat_CL165557/dkv38)&#8212;ARC and [Circa](https://www.levenger.com/circa-notebooks-339.aspx) are compatible systems.~~
+* ~~[Circa Paper Punch](https://www.levenger.com/circa-326/circa-punches-23253/circa-universal-desk-punch-12724.aspx)~~
+* ~~Rocketbook and Pilot Frixion pens~~
+* I've retired the Arc/Circa and Rocketbook notebooks in favor of the [Full Focus planner](https://fullfocusstore.com/collections/all-products/products/full-focus-planner-leather?variant=39894704062648&__hstc=95488771.ba2e62da07235dec8bc49605218e9f3c.1668514781593.1668514781593.1668514781593.1&__hssc=95488771.1.1668514781593&__hsfp=3007689586&_ga=2.137310067.2100760117.1668514781-1064247051.1668514781). Pricy and luxurious. I like the leather cover in black.
+* [Pilot G2 Pens](https://www.amazon.com/dp/B00006JNJ8?ref_=cm_sw_r_cp_ud_dp_SV5JA4CSS8YGDPNVNMCM). I especially like the Metropolitan body that uses the G2 cartridges.
 * [Esington hourglass](https://www.esington.com/products/esington-glass-new-edition-stop-time)&#8212;I have both a small and large hourglass I purchased during their original Kickstarter.
 * [Star Wars Mighty Muggs Captain Rex](https://www.amazon.com/dp/B0014RC2WW/ref=cm_sw_r_tw_dp_VNP0DA681G0T3J8QWMPW)&#8212;Everyone needs a rubber duck to help with debugging. Mine is in the form of Captain Rex.
 * [eBags Pro Slim Laptop Backpack](https://www.ebags.com/backpacks/laptop-backpacks/pro-slim-laptop-backpack/117775XXXX.html?dwvar_117775XXXX_color=Solid%20Black&cgidmaster=laptop-backpacks)
