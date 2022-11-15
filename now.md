@@ -3,6 +3,13 @@ layout: page
 title: Now
 ---
 
+2022-11-15
+We are heading into the craziness that is the end of the year.
+
+My thoughts at work have been around project management, helping a manufacturing company understand agile development, and tracking our projects in a roadmap.
+
+---
+
 2022-08-27
 
 Summer is coming to a close and I've had a great time out on the lake. I had a lot of chances to surf this summer as my sons are less interested in it.
