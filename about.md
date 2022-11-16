@@ -6,7 +6,8 @@ permalink: /about/
 
 I am a software engineering manager at Maxcess.
 
-My [LinkedIn](https://www.linkedin.com/in/johnuhri/) profile.
+* My [LinkedIn](https://www.linkedin.com/in/johnuhri/) profile.
+* [Github](https://github.com/y0mbo)
 
 ### Contact me
 
