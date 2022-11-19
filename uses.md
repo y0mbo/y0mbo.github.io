@@ -25,6 +25,7 @@ This is a living document outlining the things I use. Check out what other peopl
 * iPhone 10
 * iPad
 * Apple Pencil
+* Apple Series 2 watch
 
 ## Audio
 
@@ -55,7 +56,7 @@ This is a living document outlining the things I use. Check out what other peopl
 * [Esington hourglass](https://www.esington.com/products/esington-glass-new-edition-stop-time)&#8212;I have both a small and large hourglass I purchased during their original Kickstarter.
 * [Star Wars Mighty Muggs Captain Rex](https://www.amazon.com/dp/B0014RC2WW/ref=cm_sw_r_tw_dp_VNP0DA681G0T3J8QWMPW)&#8212;Everyone needs a rubber duck to help with debugging. Mine is in the form of Captain Rex.
 * [eBags Pro Slim Laptop Backpack](https://www.ebags.com/backpacks/laptop-backpacks/pro-slim-laptop-backpack/117775XXXX.html?dwvar_117775XXXX_color=Solid%20Black&cgidmaster=laptop-backpacks)
-* [Tom Bihn snake charmer bag](https://www.tombihn.com/products/snake-charmer?variant=13808217849919)&#8212;In 2016 this bag got a redesign and I have the older style. The two-sided mesh bag is great for holding all sors of cables and other junk.
+* [Tom Bihn snake charmer bag](https://www.tombihn.com/products/snake-charmer?variant=13808217849919)&#8212;In 2016 this bag got a redesign and I have the older style. The two-sided mesh bag is great for holding all sorts of cables and other junk.
 
 ## Software
 
@@ -81,10 +82,9 @@ This is a living document outlining the things I use. Check out what other peopl
 * Ditto
 * Slack
 * Microsoft Teams (work)
-* Ditto
 * Spotify
 * Anki cards
-* Nebo
+* Nebo - for digital notetaking
 
 ### Backups
 
