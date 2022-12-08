@@ -3,7 +3,7 @@ title: Indistractable
 layout: post
 ---
 
-***Okay, I watched a free webinar that was a sales pitch to sign up for a paid course. I know.***
+*Okay, I watched a free webinar that was a sales pitch to sign up for a paid course. I know.*
 
 Author Nir Eyal wrote [Indistractable](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose-ebook/dp/B07PG2W6DC/ref=sr_1_1?keywords=indistractable+book&qid=1670420271&sprefix=indistract%2Caps%2C102&sr=8-1) about controlling your attention. The webinar I watched covered some high points I thought were interesting:
 
