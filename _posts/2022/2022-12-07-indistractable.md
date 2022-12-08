@@ -7,7 +7,7 @@ layout: post
 
 Author Nir Eyal wrote [Indistractable](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose-ebook/dp/B07PG2W6DC/ref=sr_1_1?keywords=indistractable+book&qid=1670420271&sprefix=indistract%2Caps%2C102&sr=8-1) about controlling your attention. The webinar I watched covered some high points I thought were interesting:
 
-> "The opposite of distraction is traction" [related](https://www.nirandfar.com/opposite-of-distraction/)
+> "The opposite of distraction is traction" ([related](https://www.nirandfar.com/opposite-of-distraction/))
 
 Most people would say the opposite of distraction is focus, but it is traction. Both distraction and traction have "action" in them. It's a matter of moving toward or away from what we want.
 
