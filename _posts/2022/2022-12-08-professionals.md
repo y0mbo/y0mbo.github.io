@@ -11,7 +11,7 @@ From the [Manager Tools](https://manager-tools.com/) newsletter:
 >
 > Profoundly powerful, yet ever so rare."
 
-This is *so* similar to the Nil Eyar's assessment for being [indistractable](indistractable/):
+This is *so* similar to the Nil Eyar's assessment for being [indistractable](/indistractable/):
 
 > "Did I do what I said I was going to do, for as long as I said I was going to, without distraction?"
 
