@@ -39,7 +39,7 @@ One area of improvement for 2023 is remembering to add cards to the deck on a mo
 2021 completion: 40%  
 2022 completion: 97%  
 
-I read at least a little bit almost every day. However, I missed my goal of reading 20 books this year. I hit 11, including long biographies of Presidents Washington and Adams. It's double the number of books from last year, so I'm happy about that.
+I read at least a little bit almost every day. However, I missed my goal of reading 22 books this year. I hit 11, including long biographies of Presidents Washington and Adams. It's double the number of books from last year, so I'm happy about that.
 
 ![Books](https://johnuhri.com/y0mbo.github.io/images/2023/2023-01-01-books.png)
 
@@ -53,7 +53,7 @@ I read at least a little bit almost every day. However, I missed my goal of read
 2021 completion: 21%  
 2022 completion: 32%
 
-I wrote 26 newsletter posts and 33 blog posts on [johnuhri.com](https://johnuhri.com/)
+I wrote 26 newsletter posts and 33 blog posts on [johnuhri.com](https://johnuhri.com/). Started the year strong but broke down quickly.
 
 ## Physical
 
