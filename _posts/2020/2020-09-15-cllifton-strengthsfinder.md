@@ -12,4 +12,3 @@ I. Was. Blow.  Away.
 I didn’t think the questions pertained to much of anything, and sometimes the choices didn’t even seem like opposites. Yet the results pegged me perfectly.
 
 My number one trait is “Input”. It is a skill that collects information and stores it for use later and uses that information as part of a strategic thinking skill set. This explains so much about me - my love for collecting bookmarks and reading. My 10 thousand notes in Evernote will confirm this about me.
-
