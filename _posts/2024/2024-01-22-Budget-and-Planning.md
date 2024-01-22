@@ -1,16 +1,6 @@
 ---
 title: Budget and Planning
 layout: post
-slug: 2024-01-22-budget-and-planning
-author: John Uhri
-description: >-
-	Budget and Planning
-keywords:
-	- budgets
-	- planning
-	- estimation
-banner:
-bannerCredit:
 ---
 
 Software engineers must be able to budget and plan:
