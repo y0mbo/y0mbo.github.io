@@ -10,7 +10,7 @@ keywords:
 	- planning
 	- estimation
 banner:
-bannerCredit
+bannerCredit:
 ---
 
 Software engineers must be able to budget and plan:
