@@ -22,10 +22,10 @@ This is a living document outlining the things I use. Check out what other peopl
 
 ## Other Devices
 
-* iPhone 10
-* iPad
+* iPhone 15 Pro
+* iPad Pro
 * Apple Pencil
-* Apple Series 2 watch
+* Apple Series 5 watch
 
 ## Audio
 
